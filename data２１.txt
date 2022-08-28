@@ -1,0 +1,10 @@
+think/おもいます/１/おもって/おもわない/おもう/
+say/いいます/１/いって/いわない/いう/
+win/かちます/１/かって/かたない/かつ/
+lose, be beaten/まけます/２/まけて/まけない/まける/
+[a festival] be held, take place/おまつりがあります/１/あって/ーない/ある/
+be useful/やくにたちます/１/やくにたって/やくにたたない/やくにたつ/
+move, work/うごきます/１/うごいて/うごかない/うごく/
+quir or retire from [a company], stop, give up/やめます/２/やめて/やめない/やめる/
+pay attention, take care/きをつけます/２/きをつけて/きをつけない/きをつける/
+study abroad/りゅうがくします/３/りゅうがくして/りゅうがくしない/りゅうがくする/

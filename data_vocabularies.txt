@@ -1,0 +1,504 @@
+piano/ピアノ
+-meter/ーメートル
+cash/げんきん
+hobby/しゅみ
+diary/にっき
+prayer/おいのり
+section head/かちょう
+department head/ぶちょう
+company president/さっちょう
+animal/どうぶつ
+horse/うま
+the Internet/インターネット
+dangerous/あぶない
+no smoking/きんえん
+[health] insurance/けんこうほけんしょう
+temperature, fever/ねつ
+illness, disease/びょうき
+medicine/くすり
+bath/おふろ
+jacket, outerwear/うわぎ
+underwear/したぎ
+body, health/からだ
+head, brain/あたま
+hair/かみ
+face/かお
+eye/め
+ear/みみ
+nose/はな
+mouth/くち
+tooth/は
+stomach/おなか
+leg, foot/あし
+height/せ
+arm/て
+service/サービス
+jogging/ジョギング
+shower/シャワー
+green, greenery/みどり
+Buddhist temple/おてら
+Shinto temple/じんじゃ
+number-/ーばん
+in what way, how/どやって
+which~ (used for three or more things)/どの
+which one (used for three or more things)/どれ
+two or three days/２，３にち
+before~, by~ (indicating time limit)/までに
+therefore, so/ですから
+materials, data/しりょう
+catalogue/カタログ
+timetable/じこくひょう
+clothes/ふく
+products/せいひん
+software/ソフト
+electronic dictionary/でんしじしょ
+economy/けいざい
+municipal office, city hall/しやくしょ
+senior high school/こうこう
+dentist, dentist's/はいしゃ
+single, unmarried/どくしん
+I'm sorry./すみません
+electricity, light/でんき
+air conditioner/エアコン
+passport/パスポート
+name/なまえ
+address/じゅうしょ
+map/ちず
+salt/しお
+sugar/さとう
+question, problem, trouble/もんだい
+answer/こたえ
+how to read, way of reading/よみかた
+how to~, way of ~ing/かた
+straight/まっすぐ
+slowly, leisurely/ゆっくり
+immediately/すぐ
+again/また
+later/あとで
+a little more/もうすこし
+~more, another~/もう
+swimming pool/プール
+river/かわ
+fine arts/びじゅつ
+fishing/つり
+skiing/スキー
+weekend/しゅうまつ
+New Year's Day/おしょうがつ
+about~ (time)/ごろ
+something/なにか
+somewhere, some place/どこか
+season/きせつ
+spring/はる
+summer/なつ
+autumn, fall/あき
+winter/ふゆ
+weather/てんき
+rain, rainy/あめ
+snow, snowy/ゆき
+cloudy/くもり
+sunny/はれ
+hotel/ホテル
+airport/くうこう
+sea, ocean/うみ
+world/せかい
+party/パーチイー
+festival/おまつり
+sukiyaki (beef and vegetable hot pot)/すきやき
+sashimi (sliced raw fish)/さしみ
+sushi (vinegared rice topped with raw fish)/おすし
+tempura (seafood and vegetables deep fried in butter)/てんぷら
+pork meat/ぶたにく
+chicken meat/とりにく
+beef meat/ぎゅうにく
+lemon/レモン
+flower arrangement/いけばな
+maple, red leaves of autumn/もみじ
+which one (of two things)/どちら
+both/どちらも
+the most/いちばん
+by far/ずっと
+for the first time/はじめて
+apple/りんご
+how many/いくつ
+mandarin orange/みかん
+sandwich/サンドイッチ
+curry [with rice]/カレーライス
+ice cream/アイスクリーム
+postage stamp/きって
+postcard/はがき
+envelope/ふうとう
+parents/りょうしん
+brothers and sisters/きょうだい
+(my) elder brother/あに
+(someone else's) elder brother/おにいさん
+(my) elder sister/あね
+(someone else's) elder sister/おねえさん
+(my) younger brother/おとうと
+(someone else's) younger brother/おとうとさん
+(my) younger sister/いもうと
+(someone else's) younger sister/いもうとさん
+foreign country/がいこく
+foreign student/りゅうがくせい
+class/クラス
+how long/どのくらい
+about~/ぐらい
+in total/せんぶで
+all, everything, everyone/みんな
+only~/だけ
+man/おとこのひと
+woman/おんなのひと
+boy/おとこのこ
+girl/おんなのこ
+dog/いぬ
+cat/ねこ
+panda/パンダ
+elephant/ぞう
+tree, wood/き
+thing/もの
+battery/でんち
+box/はこ
+switch/スイッチ
+refrigerator/れいぞうこ
+table/テーブル
+bed/ベッド
+shelf/たな
+door/ドア
+window/まど
+pastbox, mailbox/ポスト
+building/ビル
+cash machine, ATM (Automatic Teller Machine)/ATM
+convenience store/コンビニ
+park/こうえん
+cafe, coffee shop/きっさてん
+a fixed place to catch taxis, trains, etc.../のりば
+prefecture/けん
+on, above, over/うえ
+under, below, beneath/した
+front, before/まえ
+back, behind/うしろ
+right [side]/みぎ
+left [side]/ひだり
+in, inside/なか
+outside/そと
+next, next door/となり
+near, vicinity/ちかく
+between, among/あいだ
+drinks/のみもの
+dish (cooked food), cooking/りょうり
+sport/スポーツ
+baseball/やきゅう
+dance/ダンス
+trip, tour/りょこう
+music/おんがく
+song/うた
+classical music/クラシック
+jazz/ジャズ
+concert/コンサート
+karaoke/カラオケ
+Kabuki (traditional Japanese musical drama)/かぶき
+picture, drawing/え
+letter, character/じ
+Chinese character/かんじ
+hiragana script/ひらがな
+katakana script/かたかな
+the Roman alphabet/ローマじ
+small change/こまかいおかね
+ticket/チケット
+time/じかん
+something to do, errand/ようじ
+appointment, promise/やくそく
+side job/アルバイト
+(someone else's) husband/ごしゅじん
+(my) husband/おっと
+(someone else's) wife/おくさん
+(my) wife/つま
+child/こども
+well, much/よく
+mostly, roughly/だいたい
+many, much/たくさん
+a little, a few/すこし
+not at all (used with negatives)/ぜんぜん
+early, quickly, fast/はやく
+because~/から
+why/どうして
+cherry (blossom)/さくら
+mountain/やま
+town, city/まち
+food/たべもの
+place/ところ
+dormitory/りょう
+restaurant/レストラン
+life/せいかつ
+work, business/おしごと
+how/どう
+what kind of~/どんな
+very/とても
+not so (used with negatives)/あまり
+and (used to connect sentences)/そして
+~, but~/が
+chopsticks/はし
+spoon/スプーン
+knife/ナイフ
+fork/フォーク
+scissors/はさみ
+personal computer/パソコン
+mobile phone, cell phone/ケータイ
+e-mail/メール
+New Year's greeting card/ねんがじょう
+punch/パンチ
+stapler/ホッチキス
+Sellotape, Scotch tape, clear adhesive tape/セロテープ
+rubber, eraser/けしゴム
+paper/かみ
+flower, blossom/はな
+shirt/シャツ
+present, gift/プレゼント
+luggage, baggage, parcel/にもつ
+money/おかね
+ticket/きっぷ
+Christmas/クリスマス
+(my) father/ちち
+(my) mother/はは
+(someone else's) father (also used to adress one's own father)/おとうさん
+(someone else's) mother (also used to adress one's own mother)/おかあさん
+already/もう
+not yet/まだ
+from now on, soon/これから
+a meal, cooked rice/ごはん
+breakfast/あさごはん
+lunch/ひるごはん
+supper/ばんごはん
+bread/パン
+egg/たまご
+meat/にく
+fish/さかな
+vegetable/やさい
+fruit/くだもの
+water/みず
+tea, green tea/おちゃ
+black tea/こうちゃ
+milk/ミルク
+juice/ジュース
+beer/ビール
+alcohol, Japanese rice wine/おさけ
+tobacco, cigarette/たばこ
+letter/てがみ
+report/レポート
+photograph/しゃしん
+video [tape], video deck/ビデオ
+shop, store/みせ
+garden/にわ
+homework/しゅくだい
+tennis/テニス
+soccer, football/サッカー
+cherry-blossom viewing/おはなみ
+what/なに
+together/いっしょに
+a little while, a little bit/ちょっと
+always, usually/いつも
+sometimes/ときどき
+after that, and then/それから
+yes/ええ
+That's good./いいですね
+I see./わかりました
+school/がっこう
+supermarket/スーパー
+station/えき
+aeroplane, airplane/ひこうき
+ship/ふね
+electric train/でんしゃ
+underground, subway/ちかてつ
+the Shinkansen, the bullet train/しんかんせん
+bus/バス
+taxi/タクシー
+bicycle/じてんしゃ
+on foot/あるいて
+person, people/ひと
+friend/ともだち
+he, boyfriend, lover/かれ
+she, girlfriend, lover/かのじょ
+family/かぞく
+alone, by oneself/ひとりで
+last week/せんしゅう
+this week/こんしゅう
+next week/らいしゅう
+last month/せんげつ
+this month/こんげつ
+next month/らいげつ
+last year/きょねん
+this year/ことし
+next year/らいねん
+what year/なんねん
+what month/なんがつ
+first day of the month/ついたち
+second, two days/ふつか
+third, three days/みっか
+fourth, four days/よっか
+fifth, five days/いつか
+sixth, six days/むいか
+seventh, seven days/なのか
+eighth, eight days/ようか
+ninth, nine days/ここのか
+tenth, ten days/とおか
+fourteenth, fourteen days/じゅうよっか
+twentieth, twenty days/はつか
+twenty-fourth, twenty-four days/にじゅうよっか
+which day of the month, how many days/なんにち
+when/いつ
+birthday/たんじょうび
+department store/
+bank/
+post office/
+library/
+art museum, art gallery/
+now/
+-o'clock/
+-minute/
+half/
+what time/
+what minute/
+a.m., morning/
+p.m., afternoon/
+morning/
+daytime, noon/
+night, evening/
+the day before yesterday/
+yesterday/
+today/
+tomorrow/
+the day after tomorrow/
+this morning/
+this evening, tonight/
+rest, a holiday, a day off/
+lunchtime/
+examination, test/
+meeting, conference/
+film, movie/
+every morning/
+every night/
+every day/
+Monday/
+Tuesday/
+Wednesday/
+Thursday/
+Friday/
+Saturday/
+Sunday/
+what day of the week/
+from~/
+up to~, until~/
+and (used to connect nouns)/
+practice/
+golf/
+sumo wrestling/
+tea ceremony/
+day, date/
+condition/
+once/
+not once, never (used with negatives)/
+gradually/
+soon/
+Thank you. (used when expressing gratitude fro help received)/
+but/
+here, this place/
+there, that place near the listener/
+that place over there/
+where, what place/
+this way, this place (polite equivalent of ここ)/
+that way, that place near the listener (polite equivalent of そこ)/
+that way, that place over there (polite equivalent of あそこ)/
+which way, where (polite equivalent of どこ)/
+classroom/
+dining hall, canteen/
+office/
+conference room, meeting room/
+recepton desk/
+lobby/
+room/
+toilet, rest room/
+staircade/
+lift, elevator/
+escalator/
+vending machine/
+telephone handset, telephone call/
+country/
+company/
+house, home/
+shoes/
+tie, necktie/
+wine/
+department, counter (in a department store, etc...)/
+basement/
+-th floor/
+what floor/
+-yen/
+how much/
+hundred/
+thousand/
+ten thousand/
+this (thing here)/
+that (thing near the listener)/
+that (thing over there)/
+this~, this~ there/
+that~, that~ near the listener/
+that~, that~ over there/
+book/
+magazine/
+newspaper/
+notebook/
+personal organiser/
+business card/
+(credit) card/
+pencil/
+ballpoint pen/
+mechanical pencil, propelling pencil/
+key/
+watch, clock/
+umbrella/
+bag, briefcase/
+CD, compact disc/
+television/
+radio/
+camera/
+computer/
+car, vehicle/
+desk/
+chair/
+chocolate/
+coffee/
+souvenir, present/
+the English language/
+the Japanese language/
+~language/
+what/
+so/
+I/
+you/
+that person, he, she (casual)/
+that person, he, she (polite equivalent of あの　ひと)/
+~suffix added to a name for expressing politeness (Mr., Ms.)/
+~suffix added to a child's name instead of ~さん/
+~suffix meaning 'a national of'/
+teacher, instructor (not used when referring to one's own job)/
+teacher, instructor/
+student/
+company employee/
+employee of ~company (used with a company name, e.g, IMCの。。。)/
+bank employee/
+[medical] doctor/
+researcher, scholar/
+university/
+hospital/
+who (casual)/
+who (polite equivalent of だれ)/
+-years old/
+how old (casual)/
+how old (polite equivalent of なんさい)/
+yes/
+no/
+How do you do? (usually used as the first phrase when introducing oneself)/
+I'm from~ (country)./
+Pleased to meet you. (usually used at the end of a self-introduction)/
+Excuse me, but (used when asking someone for personal information such as their name or address)/
+May I have your name?
+This is Mr./Ms.~/
