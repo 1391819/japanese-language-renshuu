@@ -12,30 +12,21 @@ total_verbs = "110"
 last_lesson = "19"
 next_lesson = "20"
 
+lessons_array = ["２０", "２１", "２２", "２３", "２４", "２５"]
+options_array = ["１", "２", "３", "４", "５"]
+
+os.system('cls')
 print("Japanese Verbs Quiz/Review")
 print("\nLast lesson: " + last_lesson)
 print("\nTotal amount of verbs: " + total_verbs)
-print("\n#IMPORTANT#\n\n1) Please set your keyboard to Japanese 「ひらがな」 before starting!\n2) Right-click on this window's top bar (e.g., next to the window's name), select properties>font and change the font from 'Consolas' to 'MS Gothic'! (this allows you to see Japanese characters)")
-print("3) If you have any problems (or simply need help) with the application and you still want to use it just contact me at 200in081@st.nufs.ac.jp")
+print("\n- IMPORTANT -")
+print("\n1) Please set your keyboard to Japanese 「ひらがな」 before starting!")
+print("2) If you have any problems with the application just contact me at roberto.nacu@gmail.com")
 input("\nPress ENTER once you are ready to go...")
-
-#keep_adding=input("Would you like to add a new verb ? If yes, press \"あ\", else press ENTER: ")
-"""
-with open("/data/data.txt","a", encoding='utf8') as f:
-    while keep_adding=="あ":
-        v_eng_meaning = input("Enter the verb's English meaning: ")
-        v_masu_form = input("Its ます -form: ")
-        v_group = input("The group it is part of (1, 2, or 3): ")
-        v_te_form = input("Its て -form: ")
-        v_nai_form = input("Its ない -form: ")
-        f.write("{0}/{1}/{2}/\n".format(v_eng_meaning, translation, group, v_te_form, v_nai_form))
-        keep_adding=input("To add another verb, press \"あ\". To start the quiz press ENTER: ")
-"""
 
 def main():
 
     os.system('cls')
-
     print("Would you like to:\n\n１) Review verbs studied till now (L4-L" + last_lesson + ")\n２）Practice verbs from new lessons (L" + next_lesson + "-L25)\n３）Close the program")
     print("\nMore details:\n\n１）\n\tYou will be doing a general review of the verbs from all the past lessons.\n\tYou will be asked how many verbs you would like to review.\n\tYou can decide whether to review the verbs' ます -form, their て -form, their ない -form, their Dictionary form or all of them."\
           ,"\n２）\n\tYou will be asked which one of the next lessons you would like to practice.\n\tYou will be reviewing only verbs from only one lesson (could be useful before a VQ).\n\tYou will practice only the verbs' ます -form and the group they are part of.")
@@ -44,10 +35,12 @@ def main():
     # Single-lesson practice
     if(what_to_review == "２"):
 
-        os.system('cls')
+        which_lesson_to_review = 0
+        while(which_lesson_to_review not in lessons_array):
+            os.system('cls')
 
-        print("Please choose the lesson you would like to review [２０、２１、２２、２３、２４、２５]: ")
-        which_lesson_to_review = input("\nAnswer: ")
+            print("Please choose the lesson you would like to review [２０、２１、２２、２３、２４、２５]: ")
+            which_lesson_to_review = input("\nAnswer: ")
 
         filename = "data/data" + which_lesson_to_review + ".txt"
 
@@ -131,29 +124,33 @@ def main():
             used_verbs = [] # Used to not ask the same verb two times
             i = 0
             score = 0
+            review_choice = 0
 
-            os.system('cls')
+            while(review_choice not in options_array):
 
-            print("Please choose what you would like to review: ")
-            print("\n１) ます -form")
-            print("\n\tYou'll be given the English meaning of the verb and you need to enter its ます -form.")
-            print("\n２) て -form")
-            print("\n\tYou'll be given the English meaning of the verb and you need to enter a) the group it is part of and b) its て -form.")
-            print("\n３) ない -form")
-            print("\n\tYou'll be given the English meaning of the verb and you need to enter a) the group it is part of and b) its ない -form.")
-            print("\n４) Dictionary form")
-            print("\n\tYou'll be given the English meaning of the verb and you need to enter a) the group it is part of and b) its Dictionary form.")
-            print("\n５) General review(ます, て, ない and Dictionary forms)")
-            print("\n\tYou'll be given the English meaning of the verb and you need to enter a)its ます -form, b) the group it is part of, c) its て -form, d) its ない -form and e) its Dictionary form.")
-            review_choice = input("\nEnter １、２、３、４　or ５: ")
-
-            os.system('cls')
+                os.system('cls')
+                print("Please choose what you would like to review: ")
+                print("\n１) ます -form")
+                print("\n\tYou'll be given the English meaning of the verb and you need to enter its ます -form.")
+                print("\n２) て -form")
+                print("\n\tYou'll be given the English meaning of the verb and you need to enter a) the group it is part of and b) its て -form.")
+                print("\n３) ない -form")
+                print("\n\tYou'll be given the English meaning of the verb and you need to enter a) the group it is part of and b) its ない -form.")
+                print("\n４) Dictionary form")
+                print("\n\tYou'll be given the English meaning of the verb and you need to enter a) the group it is part of and b) its Dictionary form.")
+                print("\n５) General review(ます, て, ない and Dictionary forms)")
+                print("\n\tYou'll be given the English meaning of the verb and you need to enter a)its ます -form, b) the group it is part of, c) its て -form, d) its ない -form and e) its Dictionary form.")
+                review_choice = input("\nEnter １、２、３、４　or ５: ")
 
             # ます -form review
             if(review_choice == "１"):
 
-                print("How many verbs would you like to review? (tot. verbs: " + total_verbs + ")")
-                loop = input("\nAnswer: ")
+                loop = "0"
+                while(int(loop) < 1 or int(loop) > int(total_verbs)):
+
+                    os.system('cls')
+                    print("How many verbs would you like to review? (tot. verbs: " + total_verbs + ")")
+                    loop = input("\nAnswer: ")
 
                 os.system('cls')
 
@@ -189,8 +186,12 @@ def main():
             # て -form review
             elif(review_choice == "２"):
 
-                print("How many verbs would you like to review? (tot. verbs: " + total_verbs + ")")
-                loop = input("\nAnswer: ")
+                loop = 0
+                while(int(loop) < 1 or int(loop) > int(total_verbs)):
+
+                    os.system('cls')
+                    print("How many verbs would you like to review? (tot. verbs: " + total_verbs + ")")
+                    loop = input("\nAnswer: ")
 
                 os.system('cls')
 
@@ -238,13 +239,15 @@ def main():
                         score += 0.5
 
                     i += 1
-
             # ない -form review
             elif(review_choice == "３"):
 
+                loop = 0
+                while(int(loop) < 1 or int(loop) > int(total_verbs)):
 
-                print("How many verbs would you like to review? (tot. verbs: " + total_verbs + ")")
-                loop = input("\nAnswer: ")
+                    os.system('cls')
+                    print("How many verbs would you like to review? (tot. verbs: " + total_verbs + ")")
+                    loop = input("\nAnswer: ")
 
                 os.system('cls')
 
@@ -292,13 +295,15 @@ def main():
                         score += 0.5
 
                     i += 1
-
             # Dictionary review
             elif(review_choice == "４"):
 
+                loop = 0
+                while(int(loop) < 1 or int(loop) > int(total_verbs)):
 
-                print("How many verbs would you like to review? (tot. verbs: " + total_verbs + ")")
-                loop = input("\nAnswer: ")
+                    os.system('cls')
+                    print("How many verbs would you like to review? (tot. verbs: " + total_verbs + ")")
+                    loop = input("\nAnswer: ")
 
                 os.system('cls')
 
@@ -346,12 +351,15 @@ def main():
                         score += 0.5
 
                     i += 1
-
             # General review
-            else:
+            elif(review_choice == "５"):
 
-                print("How many verbs would you like to review? (tot. verbs: " + total_verbs + ")")
-                loop = input("\nAnswer: ")
+                loop = 0
+                while(int(loop) < 1 or int(loop) > int(total_verbs)):
+
+                    os.system('cls')
+                    print("How many verbs would you like to review? (tot. verbs: " + total_verbs + ")")
+                    loop = input("\nAnswer: ")
 
                 os.system('cls')
 
@@ -379,6 +387,7 @@ def main():
                     answer2_right = False
                     answer3_right = False
                     answer4_right = False
+                    answer5_right = False
 
                     # Asking ます -form
                     print("\nQ" + str(i+1) + ")\ta) What is the ます -form of 「", question[num][0], "」?")
@@ -455,10 +464,8 @@ def main():
         input()
 
         main()
-
     elif(what_to_review == "３"):
         os._exit(0)
-
 
 while True:
     main()

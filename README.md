@@ -35,6 +35,8 @@ $PROJECT_ROOT
 
 - [x] CLI based version
 - [x] Data frpm .txt files
+- [x] Added basic input validation checks for .txt version
+- [x] Added feature: a verb won't be asked twice in the same quiz session
 - [ ] Include data from Genki I
 - [ ] Create single main data (full book review)
 - [ ] Create lessons data (single lesson review)
@@ -44,6 +46,7 @@ $PROJECT_ROOT
 - [ ] Create a GUI
 - [ ] Improve data extraction process (e.g., stop using .txt files)
 - [ ] Include data from Genki II
+- [ ] Perform code refactoring (e.g., add functions)
 
 ## Highlights
 
