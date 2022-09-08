@@ -34,7 +34,7 @@ $PROJECT_ROOT
 ## Roadmap
 
 - [x] CLI based version
-- [x] Data frpm .txt files
+- [x] Data from .txt files
 - [x] Added basic input validation checks for .txt version
 - [x] Added feature: a verb won't be asked twice in the same quiz session
 - [ ] Include data from Genki I
@@ -46,7 +46,7 @@ $PROJECT_ROOT
 - [ ] Create a GUI
 - [ ] Improve data extraction process (e.g., stop using .txt files)
 - [ ] Include data from Genki II
-- [ ] Perform code refactoring (e.g., add functions)
+- [ ] Perform code refactoring
 
 ## Highlights
 
