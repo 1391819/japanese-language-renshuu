@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">AAA</h1>
+<h1 align="center">Japanese Language Renshū</h1>
 
 <div align="justify">
 
