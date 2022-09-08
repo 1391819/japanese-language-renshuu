@@ -50,23 +50,7 @@ $PROJECT_ROOT
 
 ## Highlights
 
-  <div align="center">
-    <img src="/images/2.png" alt="options screenshot"/>
-    <br/>
-    <br/>
-    <img src="/images/3.2.png" alt="practice quiz screenshot"/>
-    <br/>
-    <br/>
-    <img src="/images/4.1.png" alt="options screenshot"/>
-    <br/>
-    <br/>
-    <img src="/images/4.2.png" alt="options screenshot"/>
-    <br/>
-    <br/>
-    <img src="/images/4.3.png" alt="rules screenshot"/>
-    <br/>
-    <br/>
-  </div>
+<img src="/images/app_showcase.gif" alt="app showcase gif"/>
 
 ## License
 
