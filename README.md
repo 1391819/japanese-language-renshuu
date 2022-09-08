@@ -10,9 +10,9 @@
 
 ## About
 
-A simple CLI based application aimed towards helping foreign students using the Genki book series learn the Japanese language.
+A simple CLI based application aimed towards helping foreign students using the Genki book series learn the Japanese language (full book or lesson by lesson review).
 
-Please note that the following software has been built in the middle of my study abroad program at Nagoya University of Foreign Studies as a practicing tool (i.e., the amount of verbs were getting a bit out of hand so I wanted something that could help me memorise them). At the moment it is still incomplete, and a lot of things are still missing. However, I would like to further work on it as soon as I have the will and motivation to continue my Japanese language studies.
+Please note that the following software has been built in the middle of my study abroad program at Nagoya University of Foreign Studies as a practicing tool. The amount of verbs were getting a bit out of hand so I wanted something that could help me memorise them. At the moment it is still incomplete, and a lot of things are still missing. However, I would like to further work on it as soon as I have the will and motivation to continue my Japanese language studies.
 
 ## Stack
 
@@ -23,9 +23,9 @@ Please note that the following software has been built in the middle of my study
 
 ```
 $PROJECT_ROOT
-│   # images
+│   # Images
 ├── images
-│   # text data
+│   # Text data
 ├── data
 │   # Key scripts
 └── ...
@@ -36,6 +36,8 @@ $PROJECT_ROOT
 - [x] CLI based version
 - [x] Data frpm .txt files
 - [ ] Include data from Genki I
+- [ ] Create single main data (full book review)
+- [ ] Create lessons data (single lesson review)
 - [x] Include verbs
 - [ ] Include adjectives
 - [ ] Include nouns
